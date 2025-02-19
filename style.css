@@ -1,0 +1,77 @@
+body{
+    font-family: "arial";
+    background-color: #F2F3F4;
+    color: #181818;
+    margin: 10%;
+}
+a{
+    text-decoration: none;
+    color: #181818;
+}
+.header{
+    float: right;
+    margin-top: -70px;
+}
+.header li{
+    border-style: none;
+    margin: 0;
+    padding: 0;
+}
+.header a{
+    padding: 20px;
+}
+.header a:hover{
+    background-color: #181818;
+    color: #F2F3F4;
+}
+h1{
+    font-size: 40px;
+}
+h3+p{
+    text-align: justify;
+}
+ul{
+    padding: 0;
+}
+ol{
+    display: flex;
+    flex-direction: row;
+}
+ol>li{
+    padding: 0 20px;
+    border-right: 1px dotted black;
+    list-style-type: none;
+    margin-left: 10px;
+}
+ol>li:last-child{
+    border-right: none;
+}
+ol li p{
+    font-weight: 600;
+}
+p img{
+    width: 50px;
+    margin: 20px;
+}
+#projectsParent{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: space-around;
+}
+.projectContainer{
+    width: 30%;
+    text-align: justify;
+}
+.projectContainer img{
+    width: 310px;
+}
+#contact+p+p{
+    text-align: center;
+}
+.footer{
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: -5%;
+}
