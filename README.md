@@ -1,6 +1,5 @@
-
 # My personal website
-This is my personal website as a web developer, part of the Odin project. it's a one-page website, including sections about me, my skills and my tools, some of my projects and contact information. 
+this is my personal website as a web developer, part of the Odin project. it's a one-page website, including sections about me, my skills and my tools, some of my projects and contact information. 
 
 **Link to project:** https://iwnelion.github.io/website/
 
@@ -8,13 +7,10 @@ This is my personal website as a web developer, part of the Odin project. it's a
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, Framework of choice
-
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
+**Tech used:** HTML, CSS.
+i wanted a minimalistic design, so i chose a simple font which is easy to read and compatible with all browsers. so, i chose the arial font. with the same mindset, i chose two colors similar to white and black, since i didn't want a high contrast betweet the letters and the background. i started with my name, my title and a quick description about what i do. in the skills section, i made a table with the languages and some tools i use. for my projects, i made gifs of the sites and added a quick description to some, including a link in all of them for the actual site. in the contact section, i added images with the logos of the social media which have links to my profiles.
 
 ## Optimizations
-*(optional)*
-
 You don't have to include this section but interviewers *love* that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews!
 
 ## Lessons Learned:
