@@ -8,6 +8,7 @@ this is my personal website as a web developer, part of the Odin project. it's a
 ## How It's Made:
 
 **Tech used:** HTML, CSS.
+
 i wanted a minimalistic design, so i chose a simple font which is easy to read and compatible with all browsers. so, i chose the arial font. with the same mindset, i chose two colors similar to white and black, since i didn't want a high contrast betweet the letters and the background. i started with my name, my title and a quick description about what i do. in the skills section, i made a table with the languages and some tools i use. for my projects, i made gifs of the sites and added a quick description to some, including a link in all of them for the actual site. in the contact section, i added images with the logos of the social media which have links to my profiles.
 
 ## Optimizations
