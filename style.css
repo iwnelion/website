@@ -30,9 +30,6 @@ h1{
 h3+p{
     text-align: justify;
 }
-ul{
-    padding: 0;
-}
 ol{
     display: flex;
     flex-direction: row;
@@ -48,6 +45,20 @@ ol>li:last-child{
 }
 ol li p{
     font-weight: 600;
+}
+.skillsTags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.skillsTags span{
+  background-color: #e4e4e4;
+  border-radius: 5px;
+  padding: 5px 10px;
+  font-size: 0.9em;
+}
+.skillsTags span:hover{
+  background-color: #d4d4d4;
 }
 p img{
     width: 50px;
